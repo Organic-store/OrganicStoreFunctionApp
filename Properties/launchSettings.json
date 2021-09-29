@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "OrganicStoreFunctionApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 32618,
+      "useSSL": false
+    }
+  }
+}
